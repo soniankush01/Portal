@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ecom.portal.service.SearchSearvicetest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-09T12:53:00" hostname="JCPSI70WJ" time="0.703">
+  <properties/>
+  <testcase name="shouldAbleToGetSkuForBrand" classname="com.ecom.portal.service.SearchSearvicetest" time="0.703"/>
+  <system-out><![CDATA[18:23:01.652 [Test worker] DEBUG org.springframework.test.util.ReflectionTestUtils - Setting field 'allSku' of type [null] on target object [com.ecom.portal.service.impl.SearchServiceImpl@d8b4268] or target class [class com.ecom.portal.service.impl.SearchServiceImpl] to value [[SKU(skuId=Skuid, brand=abc, price=null, color=null, size=size)]]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
